@@ -13,10 +13,7 @@ End-to-end ML pipeline predicting congestion risk from historical TfL bus demand
 - leakage-safe evaluation using grouped cross-validation
 
 ### Tech
-Python • SQL • scikit-learn • data pipelines • model evaluation
+Python • SQL • scikit-learn • data pipelines
 
 ### Currently exploring
 PySpark • DuckDB • data engineering architectures
-
-### Creative tools
-Blender • Logic Pro • Final Cut Pro
