@@ -1,16 +1,22 @@
-## Hi there 👋
+## Ryan Vanagt
 
-<!--
-**ryan-vanagt/ryan-vanagt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building automation tools, analytics workflows and data pipelines that turn messy operational data into reliable insights.  
+MSc Business Analytics @ UCL.
 
-Here are some ideas to get you started:
+### Featured project
+🚇 **TfL Bus Crowding Risk Prediction**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+End-to-end ML pipeline predicting congestion risk from historical TfL bus demand data.
+
+- 1M+ observations
+- PR-AUC ≈ 0.82
+- leakage-safe evaluation using grouped cross-validation
+
+### Tech
+Python • SQL • scikit-learn • data pipelines • model evaluation
+
+### Currently exploring
+PySpark • DuckDB • data engineering architectures
+
+### Creative tools
+Blender • Logic Pro • Final Cut Pro
