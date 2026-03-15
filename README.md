@@ -7,4 +7,4 @@ MSc Business Analytics @ UCL.
 Python • SQL • scikit-learn • data pipelines
 
 ### Currently exploring
-PySpark • DuckDB • data engineering architectures
+PySpark • DuckDB • data engineering architectures • Docker • TimescaleDB • asyncio
