@@ -1,11 +1,15 @@
-Recently shipped:
+**Recently shipped:**
 
 **CityScan** — London, diagnosed. Lungs (air), arteries (transport), immune (crime + A&E), brain (sentiment), skin (green space). Seven public data sources, hourly Bronze→Silver→Gold pipeline, LangGraph agent, IMD-deprivation context layer.
 
-→ [live demo](https://cityscanldn.app/) · access code on request · source public June 2026
+**2nd place · Analytics for Society Awards 2026** (UCL × Imperial × IoA)
+
+→ [Live demo](https://cityscanldn.app) — dashboard open, agent on request · [Source](https://github.com/ryan-vanagt/city-scan-london) — MIT, self-host
+
+---
 
 MSc Business Analytics @ UCL · Dissertation @ The Telegraph · London
 
-`Python` `LangGraph` `DuckDB` `ChromaDB` `FastAPI` `Next.js` `Docker` `MCP`
+`Python` · `pandas` · `scikit-learn` · `LangGraph` · `DuckDB` · `ChromaDB` · `FastAPI` · `Next.js` · `Docker` · `MCP`
 
-ryan.vanagt@gmail.com
+[ryan.vanagt@gmail.com](mailto:ryan.vanagt@gmail.com)
